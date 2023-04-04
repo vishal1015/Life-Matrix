@@ -1,3 +1,4 @@
+Hare Krishna!
 Life Matrix is a service to manage to prioritize our tasks according to the Eisenhower matrix. It will help people to prioritize their work.
 **Technoloy used:** ReactJS, HTML, CSS, NodeJS, ExpressJS, MOngoDB
 
